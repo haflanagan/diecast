@@ -4,7 +4,7 @@ A standalone web server that consumes REST services, passes the response into te
 
 # Overview
 
-Diecast is a utility and importable Golang package that allows you to dynamically render a directory tree of template files into HTML,CSS or anything else text-based.  Data can be retrieved from third-party API sources and on-the-fly included during the template rendering process.  This allows you to create entire websites that consume external data sources and present a complete UI for them without the need to write intermediary logic.
+Diecast is a utility and importable Golang package that allows you to dynamically render a directory tree of template files into HTML, CSS, or anything else text-based.  Data can be retrieved from third-party API sources and on-the-fly included during the template rendering process.  This allows you to create entire websites that consume external data sources and present a complete UI for them without the need to write intermediary logic.
 
 # Goals
 
